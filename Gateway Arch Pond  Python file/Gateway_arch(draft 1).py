@@ -198,7 +198,7 @@ def plot_scaled_pond_smooth(pond_contour, scale_bar_pixels, scale_bar_meters):
 # MAIN CODE - COMPETITION QUALITY
 if __name__ == "__main__":
     # Your image path
-    img_path = r"C:\Users\cheta\Downloads\Gateway Pond photos\Screenshot 2025-10-17 191533.png"
+    img_path = r"C:\Users\cheta\Downloads\Gateway Pond photos\gatewaypond.jpg"
     
     # SCALE CALIBRATION - Update these based on your image
     scale_bar_pixels = 200   # Measure scale bar in pixels
@@ -223,3 +223,4 @@ if __name__ == "__main__":
         print(f"❌ Error: {e}")
         import traceback
         traceback.print_exc()
+
