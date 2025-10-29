@@ -1,6 +1,9 @@
 
 🌊 Gateway Arch Pond Analyzer
 Transform photos into beautiful, scaled pond plots! ✨
+<img width="2400" height="1350" alt="Image" src="https://github.com/user-attachments/assets/d3aa919c-c29d-4340-9676-d38926156688" />
+
+
 
 🚀 Quick Start
 bash
