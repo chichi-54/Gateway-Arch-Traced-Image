@@ -1,5 +1,4 @@
 <img width="2400" height="1350" alt="Image" src="https://github.com/user-attachments/assets/d3aa919c-c29d-4340-9676-d38926156688" />\
-<img width="500" height="836" alt="Image" src="https://github.com/user-attachments/assets/95fe55ef-f6db-4bc2-8807-ba0646b817e5" />
 
 # 🌊 Gateway Arch Pond Analyzer
  Transform photos into beautiful, scaled pond plots! ✨
