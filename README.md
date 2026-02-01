@@ -1,11 +1,15 @@
 <img width="2400" height="1350" alt="Image" src="https://github.com/user-attachments/assets/d3aa919c-c29d-4340-9676-d38926156688" />\
 
 # 🌊 Gateway Arch Pond Analyzer
+![Python](https://img.shields.io/badge/Python-Programming-blue?logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Data%20Visualization-orange)
+![SciPy](https://img.shields.io/badge/SciPy-Scientific%20Computing-8CAAE6?logo=scipy&logoColor=white)
+![Status](https://img.shields.io/badge/Project-Geospatial%20Analysis-success)
+
  Transform photos into beautiful, scaled pond plots! ✨
+ --
 
-
-🚀 Quick Start
-bash
 # Install dependencies
 pip install opencv-python numpy matplotlib scipy
 
